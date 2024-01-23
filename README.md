@@ -1,3 +1,3 @@
 # FA.Blog
 
-Du an websit
+Du an website
